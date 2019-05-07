@@ -1,4 +1,7 @@
 #login-form {
 	margin: 25px 0 0 0;
-	
+}
+
+.page-form {
+	max-width: 480px;
 }
